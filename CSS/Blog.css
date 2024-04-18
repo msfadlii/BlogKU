@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;600;700&display=swap');
+
+.gambar1{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.gambar1 p{
+    font-size: 18px;
+    color: #ff0000;
+}
+
+.gambar1 h1{
+    font-size: 36px;
+    color: #e70000;
+}
+
+
+#article-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.article-content {
+    font-size: 16px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.article-content2 {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.article-content-arab {
+    font-size: 26px;
+    text-align: center;
+}
+
+.article-content-arti {
+    font-size: 16px;
+    color: rgb(44, 44, 44);
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.article-content,
+.article-content2,
+.article-content-arab,
+.article-content-arti {
+    margin-bottom: 10px;
+}
